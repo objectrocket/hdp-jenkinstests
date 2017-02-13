@@ -29,7 +29,7 @@ RELEASEFOLDER="OPERATINGSYSTEM/$OSVERSION/VERSION/$HDPVERSION"
 
 # Deployment Workstation server settings
 SERVERFLAVOR="general1-4"
-SSHKEY="root-hdp-jenkins"
+SSHKEY="jenkins-key"
 OSIMAGE="4319b4ff-f887-4c52-9464-34536d202143"
 
 # ubuntu - fe980b5a-43a0-400d-af56-f0412cadef88
